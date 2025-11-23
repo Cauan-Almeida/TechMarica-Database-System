@@ -36,7 +36,7 @@ O banco `techmarica_industria` é composto pelas seguintes entidades principais:
 ## ⚙️ Como Executar
 
 1.  Certifique-se de ter um SGBD MySQL instalado (Workbench, DBeaver, etc.).
-2.  Faça o download do arquivo `Trabalho_TechMarica.sql` neste repositório.
+2.  Faça o download do arquivo `PROVA_P2_TECHMARICA_DB.sql` neste repositório.
 3.  Abra o arquivo no seu editor SQL.
 4.  Execute o script completo (o script já contém o comando para criar e selecionar o banco de dados).
 
